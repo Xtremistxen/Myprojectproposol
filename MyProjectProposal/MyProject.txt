@@ -1,0 +1,77 @@
+1. Project Title:
+Haunt at Monty-Hill Estate
+
+2. Introduction 🌟
+"Haunt at Monty-Hill Estate" is a point-and-click horror puzzle game inspired by the classic Myst, with added elements of horror. 
+Players assume the role of an assistant to a professor whose experiment in necromancy goes terribly wrong, resulting in his death and the release of 12 ghosts throughout his large estate. 
+Players must solve puzzles, capture ghosts, and uncover the secrets of the estate to prevent the ghosts from escaping into the world.
+
+3. Objectives 🌟
+Primary Objective: Create an immersive point-and-click horror puzzle game that challenges players with intricate puzzles and eerie atmospheres.
+Secondary Objectives:
+Develop AI behavior for ghosts that react to player actions.
+Implement a dynamic environment where players must use logic and clues to progress.
+Create a visually captivating and narratively driven experience.
+
+4. Project Description 🌟
+"Haunt at Monty-Hill Estate" combines elements of puzzle-solving with a horror narrative. 
+The game takes place in a large medieval-style estate filled with secrets and dangers. 
+The professor's failed experiment in necromancy has unleashed spirits bound to the estate, and it's up to the player to use special tools and solve complex puzzles to recapture these ghosts before the protective wards weaken within 12 hours. 
+Players must carefully explore the environment, decipher clues, and interact with various elements to progress, all while avoiding ghostly encounters that can harm or kill them.
+
+5. Technologies and Tools 🌟
+Game Engine: Unity
+Programming Language: C#
+Design Tools: Blender, GIMP
+Audio Tools: Adaptive Horror Ambience (Allows the user to configure and manipulate Audio)
+Version Control: Git, GitHub
+
+6. Features 🌟
+Point-and-Click Movement: Classic movement style reminiscent of Myst, allowing for an easy-to-navigate experience.
+Intricate Puzzles: Diverse puzzles, including brazier lighting sequences, statue arrangements, musical notes, and potion mixing.
+Ghost AI: Intelligent ghost behavior that responds to player actions and proximity, adding an element of danger.
+Dynamic Environment: A large, explorable estate with hidden paths, secret rooms, and interactive objects.
+Health and Healing System: The player has limited hit points and must find rare healing items to survive.
+
+7. Implementation Plan 🌟
+Phase 1: Design and prototype core gameplay mechanics (movement, basic puzzles).
+Phase 2: Develop ghost AI and implement puzzles across the estate.
+Phase 3: Integrate art, sound, and UI elements. Begin playtesting to refine gameplay.
+Phase 4: Finalize levels, optimize performance, and polish the user experience.
+Phase 5: Conduct thorough testing and prepare for deployment.
+
+Challenges:
+Balancing puzzle difficulty to ensure a rewarding experience.
+Implementing responsive and adaptive ghost AI behavior.
+Maintaining atmosphere and tension throughout the game.
+
+8. User Interface (UI) Design (if applicable)
+Wireframes: Develop initial wireframes to layout inventory, puzzle interactions, and health indicators.
+Design Principles: Focus on a minimalistic UI that doesn’t distract from the immersive experience. Ensure easy navigation and clear feedback for player actions.
+
+9. Testing Plan 🌟
+Unit Testing: Test individual components such as puzzle mechanics, ghost AI, and movement controls.
+Integration Testing: Ensure all elements work together smoothly, focusing on transitions between puzzles and ghost interactions.
+User Testing: Conduct playtests with a small group to gather feedback on difficulty, engagement, and overall experience.
+Bug Tracking: Use project management tools to track and address bugs throughout the development process.
+
+10. Deployment
+Platform: PC
+Hosting: Consider using platforms like Steam for distribution.
+Scalability/Hardware: Ensure the game can run on various hardware configurations, offering settings to adjust performance.
+
+11. Expected Outcome 🌟
+Deliver a complete, polished horror puzzle game that offers players a challenging and immersive experience. Success will be measured by player engagement, puzzle satisfaction, and overall atmosphere.
+
+12. Conclusion 🌟
+"Haunt at Monty-Hill Estate" aims to bring a fresh take on the classic point-and-click genre by combining it with horror elements and intricate puzzle design. This project will challenge the player’s intellect and nerve as they explore a hauntingly beautiful estate filled with danger and mystery.
+
+13. References
+Unity Documentation
+C# Programming Guides
+Puzzle Design in Video Games: Concepts and Techniques
+
+14. Appendix (if applicable)
+Diagrams: Include level layouts, puzzle flowcharts, and ghost AI behavior trees.
+Supplementary Materials: Notes on historical references or thematic inspirations for the game's design.
+
